@@ -13,3 +13,9 @@ Make sure you are in the bot directory and run
 ```
 python3 chatgpt.py "{enter a name}"
 ```
+
+### Logs
+
+Made a slight change so that it now looks through the files directory to look for
+a resume file that is named with the name provided. This way the information doesnt
+get mixed together and cause occasional inaccuracies.

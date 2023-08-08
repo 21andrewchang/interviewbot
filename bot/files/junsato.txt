@@ -1,0 +1,47 @@
+Basic Information
+Name: Jun Sato
+Date of Birth: July 31, 1989 (34 years old)
+Address: Tomogaoka, Mita City, Hyogo Prefecture
+Phone Number: 0795-00-0000
+Email Address: jun.sato@idec.com
+Education
+March 2007: Graduated from Mita Gakuen High School
+April 2007: Entered Doshisha University, Faculty of Engineering
+March 2011: Graduated from Doshisha University, Faculty of Engineering
+Employment History
+April 2011 - March 2015 [Polaris Co., Ltd.]
+Position: System Engineer
+Main Duties:
+Development and maintenance of internal systems
+Programming using C# and Oracle
+Coordination and support with users
+Episode: Contributed to productivity improvement by working on the development of internal systems. Regularly updated reflecting user requirements, which doubled the usage rate.
+April 2015 - March 2019 [Filler Systems Co., Ltd.]
+Position: System Engineer and Project Manager
+Main Duties:
+Development and maintenance of corporate software
+Project schedule management, cost management
+Team member development and management
+Episode: As the manager of a large project, managed the budget and schedule and successfully completed the project. Focused on team member development, the biggest achievement was getting new engineers to independently handle tasks.
+April 2019 - Present [Akikyo Co., Ltd.]
+Position: Project Manager
+Main Duties:
+Planning and proposing new projects
+Business progress as a team leader, member development
+Episode: Proposed a new project within the company and got approval. This project, aimed at improving in-house work efficiency, improved business efficiency by 20% through my ideas and management.
+Skills
+Programming Languages: C#, Excel VBA
+Database: Oracle
+Others: Project management, human resource development
+Personal Statement
+I have experience in both programming and management, and I can guide the team appropriately and lead the project to success.
+I have experience in system development in the manufacturing industry and have a perspective on improving operational efficiency.
+I place importance on communication with users and always strive to provide software that responds to user demands.
+I was in the rugby club during my student days. From that experience, I learned the importance of teamwork and perseverance to overcome difficulties, which are being utilized in my current job.
+Desired Conditions
+Desired Job: Project Manager
+Desired Annual Salary: 6 million yen
+Desired Work Location: Osaka / Hyogo
+Desired Industry: IT, Software Development
+
+

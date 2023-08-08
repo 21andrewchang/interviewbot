@@ -1,0 +1,41 @@
+Basic Information
+Name: Miho Inoue
+Date of Birth: January 7, 1998 (25 years old)
+Address: Minoh City, Osaka Prefecture
+Phone Number: 06-0000-0000
+Email Address: miho.inoue@gmail.com
+Educational Background
+March 2016: Graduated from Shounkan High School
+April 2016: Entered the Faculty of Economics at Kwansei Gakuin University
+March 2020: Graduated from the Faculty of Economics at Kwansei Gakuin University
+Work Experience
+April 2020 - March 2022: [Hitachi Solutions, Ltd.]
+Job Title: System Engineer
+Main Duties:
+Development and maintenance of financial systems
+System design, testing, and implementation
+Programming using C# and Oracle
+Project schedule and cost management
+Coordination and communication with users
+April 2022 - Present: [Fujifilm Digital Solutions]
+Job Title: System Engineer
+Main Duties:
+Development and maintenance of corporate software
+Planning and proposing new projects
+Leading and mentoring team members as a team leader
+Skills
+Programming Languages: C#
+Database: Oracle
+Others: Project Management, Personnel Development
+Personal Statement
+I have experience in developing financial systems and understand the entire process of business system development and maintenance.
+I also have experience as a project leader, excelling in schedule management and personnel development.
+I value communication with users and always strive to provide software that meets their needs.
+In my private time, I enjoy yoga. This helps me maintain a balance between my body and mind, enabling me to focus on my work.
+Desired Job Conditions
+Desired Job Title: System Engineer
+Desired Annual Salary: 5 million yen
+Desired Work Location: Osaka/Kyoto
+Desired Industry: IT, Software Development
+Willing to relocate: No
+

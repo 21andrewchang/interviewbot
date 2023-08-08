@@ -11,5 +11,5 @@ resume and generate interview questions specifically for them.
 Make sure you are in the bot directory and run
 
 ```
-python3 chatgpt.py "{name}"
+python3 chatgpt.py "{enter a name}"
 ```

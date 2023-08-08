@@ -1,0 +1,65 @@
+
+Andrew Chang 
+(510)935-8199 • 21andrewch@gmail.com
+
+Experience
+
+
+UNIQode 
+Full stack developer
+Creating a mobile app to manage legal documents and personal information
+Developed Front End using React Native CLI
+Developed Back end using Drizzle ORM, PlanetScale, Auth0
+Product Design
+UI/UX
+
+
+Bay Area, CA
+          May 2023-Present
+Education
+
+
+
+
+
+
+
+
+
+
+University of Illinois Urbana Champaign
+B.S. in Electrical and Computer Engineering - Grainger College of Engineering
+GPA: 3.0/4.0
+Relevant Coursework
+ECE 210 - Analog Signal Processing                                     Math 213 - Discrete Math
+ECE 385 - Digital Systems Laboratory                                  CS 225 - Data Structures and Algorithms
+ECE 330 - Power Circuits and Electromechanics               Physics 213 - Thermodynamics
+ECE 313 - Probability with Engineering Applications      Physics 214 - Quantum Mechanics
+
+
+                  Champaign, IL
+          August 2021-May 2024
+Projects
+
+Vending Machine
+In this project, I created a small scale machine simulation of a vending machine that takes an input of coins and has several outputs depending on the amount of money that has been inserted. The machine has several states including an idle state that awaits more coin input, an output state that dispenses the item when there is enough money inserted, and an output state that returns the coin inserted when it exceeds the price for the item. The machine uses a pre-programmed sensor that detects the price of a coin that has been inserted. It stores the state that the vending machine is currently in using a series of D-Latches, and has a set of logic gates to calculate the next state depending on the inserted coin.
+
+Tetris
+I developed a Tetris game using SystemVerilog on an FPGA board. The game utilized a matrix-based approach to manage Tetrimino positioning and used clock cycles on the FPGA to progress the game. I implemented block movement, rotation, collision detection, and line clearing logic. By integrating the FPGA board with a VGA interface, the game was displayed in real-time on an external monitor. Controlling the movement of the Tetrimino was done through keyboard control, where I mapped key inputs to the movement in C. 
+
+Twitter Clone
+I developed a Twitter Clone to learn web development. My clone had basic functionality of posting messages and users. I used PlanetScale as my database to store messages that users post, typescript for front end development, Drizzle ORM for managing my database, and Clerk for user authentication. Posts were visible by anyone, but in order to post you need to create an account. I was able to organize users and their posts in the database by using their Clerk unique identifier and a one to many relationship that I made with Drizzle. This way, you could see every post made by a specific user when you click on their profile.
+
+Skills
+
+
+Fluent in English and Chinese. Advanced proficiency in Japanese. 
+Soldering · Oscilloscope · Analog Signal Processing · Logic Design · VHDL · Embedded Systems · Field-Programmable Gate Arrays (FPGA)  · RTL Design · SystemVerilog · Analog Circuits · Assembly Language · Intel Quartus Prime · Printed Circuit Board (PCB) Design · C (Programming Language) · C++ · Javascript · Python · SQL · Project Management · Computer-Aided Design (CAD) · Figma 
+
+
+
+
+
+
+
+

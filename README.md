@@ -8,6 +8,12 @@ resume and generate interview questions specifically for them.
 
 ### To Use
 
+Create a constants.py file in the bot directory and put in ur api key
+
+```
+API_KEY="replace with apikey"
+```
+
 Make sure you are in the bot directory and run
 
 ```

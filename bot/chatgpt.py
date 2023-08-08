@@ -34,7 +34,7 @@ if matching_file_path:
     index = VectorstoreIndexCreator().from_loaders([loader])
     
     # Provide a system message for the interview
-    system_prompt = f"You are an interviewer. You will be given a name and I need you to make 5 customized interview questions based on the resume in '{matching_file_path}'."
+    system_prompt = f"You are an interviewer. You will be given a name and I need you to make 5 customized interview questions based on the resume in '{matching_file_path}' if there isn't a file that matches that exactly then say A file with that name can't be found."
     
     # Combine the system message and user query
     combined_query = f"{system_prompt} {user_query}"

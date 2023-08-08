@@ -8,4 +8,8 @@ resume and generate interview questions specifically for them.
 
 ### To Use
 
-Make sure you are in the bot directory and run python3 chatgpt.py "{name}"
+Make sure you are in the bot directory and run
+
+```
+python3 chatgpt.py "{name}"
+```

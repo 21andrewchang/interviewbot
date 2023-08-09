@@ -14,7 +14,7 @@ with their name.
 Create a constants.py file in the bot directory and put in ur api key
 
 ```
-API_KEY="replace with apikey"
+APIKEY="replace with apikey"
 ```
 
 Make sure you are in the bot directory and run
